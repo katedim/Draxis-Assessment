@@ -1,0 +1,5 @@
+.link-text {
+  color: black;
+  text-decoration: underline;
+  cursor: pointer; /* Add a pointer cursor to indicate it's clickable */
+}
