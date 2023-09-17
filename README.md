@@ -5,7 +5,8 @@
 Install the CLI using the npm package manager:
 npm install -g @angular/cli
 
-Go to directory Draxis-Assessment/YummyGreekRestaurant
+Go to directory Draxis-Assessment/YummyGreekRestaurant.
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## JSON Server
