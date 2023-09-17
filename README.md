@@ -3,7 +3,7 @@
 ## Development server
 
 Install the CLI using the npm package manager:
-npm install -g @angular/cli
+`npm install -g @angular/cli`
 
 Go to directory Draxis-Assessment/YummyGreekRestaurant.
 
@@ -14,4 +14,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 To install the JSON server run `npm install -g json-server`. To start the JSON Server run `npx json-server --watch db.json`.
 
 ## Angular jwt
-npm install --save @auth0/angular-jwt
+`npm install --save @auth0/angular-jwt`
