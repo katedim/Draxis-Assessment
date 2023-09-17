@@ -10,3 +10,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## JSON Server
 
 To install the JSON server run `npm install -g json-server`. To start the JSON Server run `npx json-server --watch db.json`.
+
+## Angular jwt
+npm install --save @auth0/angular-jwt
